@@ -1,0 +1,11 @@
+C:\Users\marti\source\repos\Bad\Bad\bin\Debug\Bad.exe.config
+C:\Users\marti\source\repos\Bad\Bad\bin\Debug\Bad.exe
+C:\Users\marti\source\repos\Bad\Bad\bin\Debug\Bad.pdb
+C:\Users\marti\source\repos\Bad\Bad\obj\Debug\Bad.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Bad\Bad\obj\Debug\Bad.Properties.Resources.resources
+C:\Users\marti\source\repos\Bad\Bad\obj\Debug\Bad.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\Bad\Bad\obj\Debug\Bad.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Bad\Bad\obj\Debug\Bad.exe
+C:\Users\marti\source\repos\Bad\Bad\obj\Debug\Bad.pdb
+C:\Users\marti\source\repos\Bad\Bad\obj\Debug\Bad.Form1.resources
+C:\Users\marti\source\repos\Bad\Bad\obj\Debug\Bad.Form2.resources
